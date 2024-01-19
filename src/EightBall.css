@@ -1,0 +1,25 @@
+.EightBall
+{
+    background-color: black;
+    width:10em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:10em;
+    border-radius: 5em;
+    margin:1em;
+    -webkit-user-select: none;
+    -ms-user-select: none; 
+    user-select: none; 
+}
+
+.small {
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+}
+
+.Counters{
+    display:flex;
+}
